@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe.config
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsClient\bin\Debug\ProductsClient.pdb
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsClient\obj\x86\Debug\ProductsClient.exe
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsClient\obj\x86\Debug\ProductsClient.pdb
+D:\Desktop\Book\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsClient\bin\Debug\ProductsClient.exe.config
+D:\Desktop\Book\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsClient\obj\x86\Debug\ProductsClient.exe
+D:\Desktop\Book\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsClient\obj\x86\Debug\ProductsClient.pdb

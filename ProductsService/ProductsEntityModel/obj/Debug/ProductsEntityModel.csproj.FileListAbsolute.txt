@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll.config
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsEntityModel\bin\Debug\ProductsEntityModel.pdb
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.dll
+C:\Users\DELL\Desktop\Microsoft Press\WCF Step By Step\Chapter 1\Completed\ProductsService\ProductsEntityModel\obj\Debug\ProductsEntityModel.pdb
